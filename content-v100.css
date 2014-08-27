@@ -8,7 +8,7 @@
 }
 .header-navi {
     text-align: right;
-    margin-bottom: 20px;
+    margin-bottom: 22px;
 }
 .header-navi .link-block {
     display: inline-block;
@@ -27,7 +27,7 @@
     font-family: "Andale Mono";
     margin-bottom: 20px;
     text-align: right;
-    font-size: 28px;
+    font-size: 26px;
     color:#505050;
 }
 .intro {
