@@ -1,0 +1,10 @@
+{
+  "app": {
+    "name": "dpp-website"
+  },
+  "header": {
+    "docs": "Documentation",
+    "docs-title": "Django Public Project - Documentation",
+    "subtitle-1": "Software for stuff"
+  }
+}

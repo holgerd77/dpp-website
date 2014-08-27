@@ -1,0 +1,81 @@
+.container-custom {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.header-logo {
+    margin-bottom: 20px;
+}
+.header-navi {
+    text-align: right;
+    margin-bottom: 20px;
+}
+.header-navi .link-block {
+    display: inline-block;
+    margin-left:20px;
+}
+.header-navi, .header-navi > a, .link-block > a {
+    font-size: 16px;
+    color:#999;
+    font-weight: bold;
+    text-decoration: none;
+}
+.header-navi > a:hover {
+    color: #666;
+}
+.header-subtitle {
+    font-family: "Andale Mono";
+    margin-bottom: 20px;
+    text-align: right;
+    font-size: 28px;
+    color:#505050;
+}
+.intro {
+    margin-top: 20px;
+    background-color: #e0e0e0;
+    padding: 40px;
+}
+.intro-text {
+    color: #333;
+    font-size: 18px;
+}
+.quote {
+    padding:40px;
+    text-align:center;
+}
+.quote-text {
+    font-family: "Andale Mono";
+    font-size: 24px;
+    font-style: italic;
+    color: #111;
+}
+.quote-author {
+    margin-top: 10px;
+    font-family: "Andale Mono";
+    color: #555;
+    font-size:18px;
+}
+.section-header {
+    padding:40px;
+    text-align:center;
+    font-family: "Andale Mono";
+    font-size: 32px;
+    color: #111;
+}
+.example {
+    margin-bottom:45px;
+}
+.example-intro {
+    min-height: 90px;
+}
+.example .scenario {
+    margin-top:20px;
+    min-height: 270px;
+    padding:20px;
+    background-color:green;
+    color:#fff;
+}
+.example .scenario h4 {
+    margin-top: 0px;
+}
+

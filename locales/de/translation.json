@@ -1,0 +1,89 @@
+{
+  "app": {
+    "name": "dpp-website"
+  },
+  "header": {
+    "docs": "Dokumentation",
+    "docs-title": "Django Public Project - Dokumentation",
+    "subtitle-1": "Software für die Komplexitätsaufarbeitung",
+    "subtitle-2": "bei Großprojekten, Untersuchungsausschüssen",
+    "subtitle-3": "und langfristigen Recherchen"
+  },
+  "intro": {
+    "text-1": "\"Django Public Project\" ist ein spezialisiertes Content-Management-System zum Erstellen von Webseiten rund um große Projekte oder langfristig angelegte Recherchearbeiten.",
+    "text-2": "Ziel der Software ist es, ein vertieftes Verständnis von Strukturen, Abläufen und Zusammenhängen zu ermöglichen und die Zugänglichkeit zugehöriger Informationsquellen zu erhöhen.",
+    "text-3": "Die Software ist Open Source und aktuell bei den Piraten in den Landtagen von Berlin und NRW für ihre Projekte",
+    "text-4": "und",
+    "text-5": "im Einsatz.",
+    "text-url-berwatch-title": "BERwatch - Piratenfraktion AGH Berlin - Flughafen Untersuchungsausschuss",
+    "text-url-blbwatch-title": "BLBwatch - Piratenfraktion Landtag NRW - BLB Untersuchungsausschuss"
+  },
+  "quote": {
+    "text": "\"Das Projekt könnte der Standard für Untersuchungsausschüsse werden.\"",
+    "author": "(Die taz zu BERwatch, 28.02.2013)"
+  },
+  "use-cases": {
+    "title": "Einsatzmöglichkeiten",
+    "img-title-attribution": "Quelle: Wikimedia Commons (Nachweis siehe Seitenende)",
+    "example-1-title": "Verwaltung",
+    "example-1-intro-text": "Einbeziehung der Öffentlichkeit bei langfristigen Planungsprozessen.",
+    "example-1-scenario-title": "Szenario: Vorbereitung Großsportereignis",
+    "example-1-scenario-text": "In der Stadt soll in einigen Jahren ein großes Sportevent stattfinden. Sportstätten müssen gebaut und geeignete Lokalitäten ausfindig gemacht werden. Die Stadtverwaltung nutzt die Software, um Zuständigkeiten innerhalb der Behörden sowie den Fortgang der Planungen aufzuzeigen, Planungsdokumente zu veröffentlichen und Feedback zu einzelnen Themen durch die Öffentlichkeit einzuholen.",
+    "example-2-title": "Zivilgesellschaft",
+    "example-2-intro-text": "Kritische Begleitung eines Großprojektes durch zivilgesellschaftliche Akteure.",
+    "example-2-scenario-title": "Szenario: Bau Flughafen",
+    "example-2-scenario-text": "In einer Stadt soll ein neuer Flughafen gebaut werden. Zwischen gesellschaftlichen Gruppen gibt es Uneinigkeit, ob ein neuer Flughafen in dieser Form benötigt wird und ob es möglich ist, einen derartigen Bau im vorgegebenen Kostenrahmen zu errichten. Eine zivilgesellschaftliche Organisation entschließt sich, eine Software-Plattform einzurichten, um den Ablauf der Planungen zu dokumentieren und verstreute Informationen verschiedener Akteure auf einer zentralen Plattform zusammenzuführen.",
+    "example-3-title": "Journalisten",
+    "example-3-intro-text": "Veröffentlichung, Aufbereitung und Kollektivierung von Rechercheprozessen.",
+    "example-3-scenario-title": "Szenario: Umstrittenes Reformvorhaben",
+    "example-3-scenario-text": "Die Regierung plant ein großes und gesellschaftlich umstrittenes Reformvorhaben. Dieses wurde schon im Koalitionsvorhaben festgeschrieben und der Prozess bis zur Verabschiedung eines endgültigen Gesetzes wird sich noch einige Jahre hinziehen. Auf einer Plattform wird der Entstehungsprozess des Gesetzes dokumentiert. Stakeholder, ihre verschiedenen Interessen und ihr Agieren im Hinblick auf den Gesetzgebungsprozess werden aufgezeigt. Gesetztesentwürfe und Dokumente aus Ausschüssen und Planungsgremien werden veröffentlich und kommentiert.",
+    "example-4-title": "Untersuchungsauschüsse",
+    "example-4-intro-text": "Aufbereitung der Arbeit von parlamentarischen Untersuchungsausschüssen.",
+    "example-4-scenario-title": "Szenario: Umstände Großbankenrettung",
+    "example-4-scenario-text": "Nach einer wirtschaftlichen Krise gerät eine Großbank in Schieflage und muss mit Milliardenhilfen vom Staat unterstützt werden. Ein Untersuchungsausschuss soll klären, wie es zu der Schieflage kommen konnte und ob Fehlentscheidungen getroffen worden sind. Die Software begleitet die Recherchearbeiten des Untersuchungsausschusses, einfussnehmende Akteure werden aufgezeigt, Entwicklungen nachgezeichnet und relevante Dokumente veröffentlicht. Von der Öffentlichkeit werden Hinweise zur Aufklärung bestimmter Sachverhalte entgegengenommen."
+  },
+  "features": {
+    "f-1": "Admin-Konsole zur Dateneingabe",
+    "f-2": "Automatisch generierte Front-End Webseite",
+    "f-3": "Visualisierung von Projektbeziehungen",
+    "f-4": "Tags und Webquellen",
+    "f-5": "Volltextsuche mit Autocomplete-Funktion",
+    "f-6": "Dokumentenmanagement inkl. PDF-Viewer",
+    "f-7": "Fortgeschrittenes Kommentarsystem",
+    "f-8": "Verfügbare Sprachen: deutsch, englisch"
+  },
+  "dev": {
+    "title": "Entwicklung",
+    "p1-text-1": "\"Django Public Project\" ist eine Programmierbibliothek, die in der Programmiersprache",
+    "p1-text-2": "entwickelt wurde und auf dem beliebten Web-Framework",
+    "p1-text-3": "aufsetzt.",
+    "p2-text-1": "Die Weiterentwicklung der Software erfolgt öffentlich auf der Plattform",
+    "p2-text-2": ". Dort kann der aktuelle Entwicklungsstand der Software eingesehen und Fehler gemeldet werden.",
+    "p3-text-1": "Für Fragen an die Community und weitläufigere Diskussionen rund um die Software und damit einhergehende Konzepte und Ideen gibt es außerdem eine",
+    "p3-text-2": "(englisch)."
+  },
+  "contact": {
+    "title": "Kontakt",
+    "p1-text-1": "Für die direkte Kontaktaufnahme und zum Folgen von Nachrichten rund um die Software gibt es einen eigenen Twitter Account",
+    "p2-text-1": "Wenn Sie spezielle Anforderungen an eine Softwareinstallation haben oder Hilfe bei der Einführung benötigen, können Sie sich auch direkt an den Entwickler",
+    "p2-text-2": "wenden.",
+    "p3-text-1": "Alle Erweiterungen werden als Open Source verfügbar gemacht und Ihr Beitrag hilft bei der Finanzierung der zukünftigen Entwicklung dieser Software."
+  },
+  "thanks": {
+    "title": "Danksagung",
+    "p1-text-1": "Vielen Dank an die Piratenfraktionen im ",
+    "p1-url1-text": "Abgeordnetenhaus Berlin",
+    "p1-url1-title": "Piratenfraktion - Abgeordnetenhaus Berlin",
+    "p1-text-2": "und im",
+    "p1-url2-text": "Landtag Nordrhein-Westfalen",
+    "p1-url2-title": "Piratenfraktion - Landtag Nordrhein-Westfalen",
+    "p1-text-3": "für die initiale Finanzierung bei der Entwicklung dieser Software."
+  },
+  "imprint": {
+    "text": "Impressum:  Holger Drewes | Helene-Lange-Str. 9 | 14469 Potsdam"
+  },
+  "attribution": {
+    "title": "Verwendete Bilder für Beispiele, Quellennachweise:",
+    "remark-1": "Bilder dienen ausschließlich der Illustration und haben keinen direkten Bezug zu beschriebenen Szenarien oder ähnlichen realen Beispielfällen"
+  }
+}
