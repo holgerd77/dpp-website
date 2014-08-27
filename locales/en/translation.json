@@ -5,6 +5,85 @@
   "header": {
     "docs": "Documentation",
     "docs-title": "Django Public Project - Documentation",
-    "subtitle-1": "Software for stuff"
+    "subtitle-1": "Software for the Management of Complexity on",
+    "subtitle-2": "Large-Scale Projects, Political Committees",
+    "subtitle-3": "and Long-Term Research Work"
+  },
+  "intro": {
+    "text-1": "\"Django Public Project\" is a specialized content management system for creating websites around large-scale projects or long-term research work.",
+    "text-2": "Goal of the software is to facilitate a deeper understanding of structures, processes and correlations und enhance the accessibility of associated information resources.",
+    "text-3": "The software is open source and currently deployed by german pirate party in the state parliaments of Berlin and North Rhine-Westphalia for their projects",
+    "text-4": "and",
+    "text-5": ".",
+    "text-url-berwatch-title": "BERwatch - Pirate Party State Parliament Berlin - Airport Investigation Committee",
+    "text-url-blbwatch-title": "BLBwatch - Pirate Party State Parliament NRW - BLB Investigation Committee"
+  },
+  "quote": {
+    "text": "\"The project could become the standard for political investigation committees.\"",
+    "author": "(German national newspaper taz on BERwatch, February 28th 2013)"
+  },
+  "use-cases": {
+    "title": "Possible Applications",
+    "img-title-attribution": "Source: Wikimedia Commons (attribution at end of page)",
+    "example-1-title": "Administration",
+    "example-1-intro-text": "Inclusion of the public on long-term planning processes.",
+    "example-1-scenario-title": "Scenario: Preparations Big Sports Event",
+    "example-1-scenario-text": "In the city a big sports event will be hold in a few years. Sports halls have to be build and suited localities have to be found. The city administration is using the software for displaying responsibilities within departments as well as the progress of plannings, publishing documents and getting feedback for certain topics from the public.",
+    "example-2-title": "Civil Society",
+    "example-2-intro-text": "Critical monitoring of a large-scale project by civic actors.",
+    "example-2-scenario-title": "Scenario: Airport Construction",
+    "example-2-scenario-text": "In the city a new airport is planned. There is disagreement between societal groups, if a new airport is necessary in the planned format and if it is possible to finish the construction work in the given frame of available resources. A civic organization decides to set up a software platform and document planning and bring scattered information of different stakeholders together on one central platform.",
+    "example-3-title": "Journalists",
+    "example-3-intro-text": "Publication, preparation and collectivization of research processes.",    
+    "example-3-scenario-title": "Scenario: Controversial Reform Project",
+    "example-3-scenario-text": "The government is planning a big and socially controversial reform project. This was already thought through in the coalition agreement and the process till final enacting of the law will last several years. On the software platform the evolutionary history of the body of laws is documented. Stakeholders, their different interests und their acting due the law making process is made transparent. Draft laws and documents from committees are published and commented.",
+    "example-4-title": "Political Committees",
+    "example-4-intro-text": "Attendance of the work of a parliamentary investigation committee.",
+    "example-4-scenario-title": "Scenario: Circumstances Rescue",
+    "example-4-scenario-text": "Following an economic crisis a big bank is getting into existential trouble and has to be rescued with billions of dollars by government. A political investigation committee shall clarify, how the bank could get into such a bad situation and if wrong decisions were made leading to this development. The software supports the research work of the political committee, influencing actors are presented, developments are traced and relevant documents are published. The public is encouraged to give hints about circumstances of the case."
+  },
+  "features": {
+    "f-1": "Admin console for input of data",
+    "f-2": "Auto-generated front-end website",
+    "f-3": "Visualization of project relationships",
+    "f-4": "Tags and web sources",
+    "f-5": "Full-text search with autocomplete functionality",
+    "f-6": "Document management including pdf viewer",
+    "f-7": "Advanced commenting system",
+    "f-8": "Languages: english, german"
+  },
+  "dev": {
+    "title": "Development",
+    "p1-text-1": "\"Django Public Project\" is a programming library being developed in the programming language",
+    "p1-text-2": "and sitting on top of popular",
+    "p1-text-3": "web framework.",
+    "p2-text-1": "The development of the software is taking place in public on the platform",
+    "p2-text-2": ". There the status of development can be seen and bugs can be reported.",
+    "p3-text-1": "For questions to the community and more wide-spread discussions around features of the software or associated ideas and concepts there is also a",
+    "p3-text-2": "."
+  },
+  "contact": {
+    "title": "Contact",
+    "p1-text-1": "For direct contact and for following news around the software there is a twitter account",
+    "p2-text-1": "If you have got special needs for a sofware installation or if you need help on introducing the software you can also directly contact the developer",
+    "p2-text-2": ".",
+    "p3-text-1": "All extensions will be made open source and your contribution helps financing the future development of the software."
+  },
+  "thanks": {
+    "title": "Thank You",
+    "p1-text-1": "Thanks to the fractions of the pirate party in the",
+    "p1-url1-text": "State Parliament Berlin",
+    "p1-url1-title": "Fraction Pirate Party - State Parliament Berlin",
+    "p1-text-2": "and in the",
+    "p1-url2-text": "State Parliament of North Rhine-Westphalia",
+    "p1-url2-title": "Fraction Pirate Party - State Parliament of North Rhine-Westphalia",
+    "p1-text-3": "for financing the initial development of the software."
+  },
+  "imprint": {
+    "text": "Imprint:  Holger Drewes | Helene-Lange-Str. 9 | 14469 Potsdam | Germany"
+  },
+  "attribution": {
+    "title": "Utilized images for examples, source attribution:",
+    "remark-1": "Images are solely for illustration purposes and have to direct connection to scenarios described or similar real world examples"
   }
 }
