@@ -35,9 +35,9 @@
           <a href="https://twitter.com/DjPublicProject" target="_blank" class="link-block" title="Django Public Project - Twitter">
             <i class="fa fa-twitter"></i> Twitter</a>
           <span class="link-block">
-            <a href="javascript:i18n.init({ lng: 'en' }, translate);" title="Django Public Project - Website (english)">EN</a>
+            <a href="/?lng=en" title="Django Public Project - Website (english)">EN</a>
             &nbsp;| 
-            <a href="javascript:i18n.init({ lng: 'de' }, translate);" title="Django Public Project - Website (deutsch)">DE</a>
+            <a href="/?lng=de" title="Django Public Project - Website (deutsch)">DE</a>
           </span>
         </div>
         <div class="col-xs-12 col-sm-8 header-subtitle">
@@ -230,11 +230,17 @@
     <script>
       function translate(t) {
         // translate nav
-        $(document).i18n();
+        if (location.href.indexOf("lng=de") > -1) {
+          i18n.setLng('de', function(t) { $(document).i18n(); });
+        } else if (location.href.indexOf("lng=en") > -1) {
+          i18n.setLng('en', function(t) { $(document).i18n(); });
+        } else {
+          $(document).i18n({});
+        }
       }
 
       $(document).ready(function() {
-        i18n.init({ fallbackLng: 'en', lng: 'de' }, translate);
+        i18n.init({ fallbackLng: 'en'}, translate);
       });
     </script>
 
