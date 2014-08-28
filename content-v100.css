@@ -23,11 +23,14 @@
 .header-navi > a:hover {
     color: #666;
 }
-.header-subtitle {
+.header-subtitle h1 {
     font-family: "Andale Mono";
+    margin-top: 0px;
     margin-bottom: 20px;
     text-align: right;
     font-size: 26px;
+    font-weight: inherit;
+    line-height: inherit;
     color:#505050;
 }
 .intro {
