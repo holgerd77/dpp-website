@@ -57,9 +57,9 @@
           <p style="font-size:18px;" data-i18n="intro.text-2"><p>
 
           <p style="font-size:18px;"><span data-i18n="intro.text-3"></span>
-            <a href="https://ber.piratenfraktion-berlin.de" target="_blank" data-i18n="[title]intro.text-url-berwatch-title">
+            <a href="https://ber.piratenfraktion-berlin.de" target="_blank" style="font-weight:bold;" data-i18n="[title]intro.text-url-berwatch-title">
               BERwatch</a> <span data-i18n="intro.text-4"></span> 
-            <a href="https://blb.piratenfraktion-nrw.de/" target="_blank" data-i18n="[title]intro.text-url-blbwatch-title">BLBwatch</a> 
+            <a href="https://blb.piratenfraktion-nrw.de/" target="_blank" style="font-weight:bold;" data-i18n="[title]intro.text-url-blbwatch-title">BLBwatch</a> 
             <span data-i18n="intro.text-5"></span>
 
         </span>
@@ -234,7 +234,7 @@
       }
 
       $(document).ready(function() {
-        i18n.init({ lng: "en" }, translate);
+        i18n.init({ fallbackLng: 'en', lng: 'de' }, translate);
       });
     </script>
 
